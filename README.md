@@ -1,2 +1,2 @@
 # BAYESIAN-OPTIMIZATION
-A collection of Jupyter notebooks and Python code as well as real world data used in my blog posts about Bayesian Optimization on experimentaldesignhub.com
+A collection of Jupyter notebooks, Python code, and real-world datasets featured in my blog posts on Bayesian Optimization at experimentaldesignhub.com.
